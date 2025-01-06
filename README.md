@@ -1,0 +1,1 @@
+i built this simple but cool application for detecting spam mails as my first machine learning project and used logistic regression model.i employed several machine learning skills like data collection and preprocessing as but mostly used the project to understand more about feature extraction and textual data proccessing
